@@ -1,2 +1,2 @@
 # rest-api-app
-This repository represents basic REST API application written on Golang.
+This repository represents basic REST API application written on Golang. Application allows to send and receive CRUD requests, save data into database, validating and encrypting them before. Application performs user registration and authentication, has middleware components (user authentication check, CORS headers, request ID, request logging). Application is also covered by unit tests.
